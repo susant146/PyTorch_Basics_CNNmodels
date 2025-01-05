@@ -35,6 +35,5 @@ This repository provides a comprehensive guide to understanding and implementing
 ### Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PyTorch-Basics-and-CNN.git
-   cd PyTorch-Basics-and-CNN
+   git clone https://github.com/susant146/PyTorch_Basics_CNNmodels.git
 
